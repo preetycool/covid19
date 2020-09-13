@@ -3,6 +3,8 @@
 ![Image of COVID-19 map](https://i.imgur.com/VdztISO.png)
 Created by [@yaburi](https://github.com/yaburi/) and [@preetycool](https://github.com/preetycool/)
 
+## View the app via this link - https://cov19map.netlify.app/
+
 ## Things we used to build this
 ### API
 Mathdroid COVID-19 API
